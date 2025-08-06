@@ -1,9 +1,11 @@
 
 
 Work completed in the teuscher.:Lab as a research intern - Summer 2025
+## Description
+This project implements a fractional-order leaky integrate-and-fire neural network to solve the CartPole-v1 environment. The effects of $\alpha$ variation on the fractional dynamics is studied in relation to the networks efficiency and robustness. The fractional-order network is compared to a first-order spiking neural network and a standard multilayer perceptron as comparison.
 
 ## Directory:
-Scripts - CartPole MLP, SNN/FOSNN
+Scripts - CartPole MLP, SNN/FOSNN, GL fractional neuron
 
 Results - Data Tables, Script Plots
 
